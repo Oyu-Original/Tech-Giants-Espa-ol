@@ -8,7 +8,7 @@
     "category": ["Language"],
     "description": "Esto es una traducción al español; si encuentras un problema, puedes avisarme directamente.",
     "links": [{"type": "homepage", "url": "https://discord.com/channels/1252985943183458405/1258004760334958614"}],
-    "authors": [{ "name": "Rebellium", "contacts": ["https://discord.com/users/1252978889668562995"] }],
+    "authors": [{ "name": "Oyu", "contacts": ["https://discord.com/users/1252978889668562995"] }],
     "changelog": "Primera subida del mod",
     "assets": [{ "type": "json", "path": "assets/language.json" }],
     "supportedGameVersion": "0.2.0",
