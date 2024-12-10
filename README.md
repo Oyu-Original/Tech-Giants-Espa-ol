@@ -1,6 +1,6 @@
-# Your Mod Name
+# Tech-Giants en Español
 
-To install this mod copy and paste below link into the mod section of Tech Giants Game. 
+Para instalar este mod, copie y pegue el siguiente enlace en la sección de mods del juego Tech Giants. 
 ```
 https://oyu-original.github.io/Tech-Giants-Espa-ol/repository.json
 ``` 
